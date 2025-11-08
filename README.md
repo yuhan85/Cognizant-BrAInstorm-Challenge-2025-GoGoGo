@@ -39,5 +39,3 @@ Ensure the form is submitted before the challenge deadline. The organizing team 
 - Use the official Cognizant BrAInstorm Discord (or the event’s chosen chat) for mentor support.
 - Tag Cognizant mentors for dataset or tooling help, and contact the organizing team through the Airtable form for access issues.
 - If something breaks in this template, open an issue in your fork so your team keeps track of fixes.
-
-Mission accepted—good luck building!
