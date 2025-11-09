@@ -1,0 +1,68 @@
+[
+  {
+    "id": "farm-1",
+    "name": "Sunshine Organic Farm",
+    "cityId": "city-1",
+    "bio": "A family-owned organic farm specializing in seasonal vegetables and herbs. We've been growing sustainably for over 20 years.",
+    "bannerImage": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1200&h=400&fit=crop&auto=format",
+    "videoUrl": "https://www.youtube.com/embed/_Bk2cr1uYDA",
+    "images": [
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=800&h=600&fit=crop&auto=format"
+    ],
+    "available": true
+  },
+  {
+    "id": "farm-2",
+    "name": "Riverside Harvest Co-op",
+    "cityId": "city-2",
+    "bio": "A cooperative of local farmers bringing you the freshest produce from our collective fields.",
+    "bannerImage": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=1200&h=400&fit=crop&auto=format",
+    "videoUrl": "https://www.youtube.com/embed/_Bk2cr1uYDA",
+    "images": [
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&h=600&fit=crop&auto=format"
+    ],
+    "available": true
+  },
+  {
+    "id": "farm-3",
+    "name": "Meadowbrook Gardens",
+    "cityId": "city-3",
+    "bio": "Specializing in heirloom tomatoes, peppers, and leafy greens. We practice regenerative agriculture.",
+    "bannerImage": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200&h=400&fit=crop&auto=format",
+    "videoUrl": "https://www.youtube.com/embed/_Bk2cr1uYDA",
+    "images": [
+      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&h=600&fit=crop&auto=format"
+    ],
+    "available": true
+  },
+  {
+    "id": "farm-4",
+    "name": "Green Valley Berry Farm",
+    "cityId": "city-1",
+    "bio": "Fresh berries and stone fruits from our orchards. Picked at peak ripeness.",
+    "bannerImage": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1200&h=400&fit=crop&auto=format",
+    "videoUrl": "https://www.youtube.com/embed/_Bk2cr1uYDA",
+    "images": [
+      "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=800&h=600&fit=crop&auto=format"
+    ],
+    "available": true
+  },
+  {
+    "id": "farm-5",
+    "name": "Riverside Roots",
+    "cityId": "city-2",
+    "bio": "Root vegetables and winter squash. We grow year-round in our greenhouses.",
+    "bannerImage": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=1200&h=400&fit=crop&auto=format",
+    "videoUrl": "https://www.youtube.com/embed/_Bk2cr1uYDA",
+    "images": [
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop&auto=format"
+    ],
+    "available": false
+  }
+]
+

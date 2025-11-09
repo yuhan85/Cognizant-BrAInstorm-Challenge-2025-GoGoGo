@@ -1,0 +1,59 @@
+[
+  {
+    "id": "rag-1",
+    "city": "city-1",
+    "title": "About Farm2Table Mission",
+    "text": "Farm2Table connects local farms to customers, delivering fresh produce directly to your door. We pledge to donate 30% of our net income or equivalent food to local community partners like food banks.",
+    "embedding": [0.1, 0.2, 0.3, 0.4, 0.5]
+  },
+  {
+    "id": "rag-2",
+    "city": "city-1",
+    "title": "Basic Plan Features",
+    "text": "The Basic plan provides a weekly fixed bundle generated from city supply. You can remove items before the cutoff time but cannot add new items. This ensures fresh, seasonal produce delivered weekly.",
+    "embedding": [0.2, 0.3, 0.4, 0.5, 0.6]
+  },
+  {
+    "id": "rag-3",
+    "city": "city-1",
+    "title": "Premium Plan Features",
+    "text": "The Premium plan lets you build your own weekly box across farms filtered by city. Choose your delivery date and time window. You can skip weeks as needed.",
+    "embedding": [0.3, 0.4, 0.5, 0.6, 0.7]
+  },
+  {
+    "id": "rag-4",
+    "city": "city-1",
+    "title": "Sunshine Organic Farm",
+    "text": "Sunshine Organic Farm is a family-owned organic farm in Green Valley specializing in seasonal vegetables and herbs. They've been growing sustainably for over 20 years.",
+    "embedding": [0.4, 0.5, 0.6, 0.7, 0.8]
+  },
+  {
+    "id": "rag-5",
+    "city": "city-2",
+    "title": "Riverside Harvest Co-op",
+    "text": "Riverside Harvest Co-op is a cooperative of local farmers bringing you the freshest produce from their collective fields in Riverside, California.",
+    "embedding": [0.5, 0.6, 0.7, 0.8, 0.9]
+  },
+  {
+    "id": "rag-6",
+    "city": "city-1",
+    "title": "Nutrition Tracking",
+    "text": "Track your weekly nutrition intake from all items in your box. Our AI assistant can suggest missing nutrients and recommend products available in your city that respect your allergies and preferences.",
+    "embedding": [0.6, 0.7, 0.8, 0.9, 1.0]
+  },
+  {
+    "id": "rag-7",
+    "city": "city-1",
+    "title": "Carbon Reduction",
+    "text": "By using Farm2Table, you reduce carbon emissions by eliminating trips to the supermarket. Our route-optimized delivery system shares emissions across multiple households.",
+    "embedding": [0.7, 0.8, 0.9, 1.0, 0.1]
+  },
+  {
+    "id": "rag-8",
+    "city": "city-3",
+    "title": "Meadowbrook Gardens",
+    "text": "Meadowbrook Gardens specializes in heirloom tomatoes, peppers, and leafy greens. They practice regenerative agriculture in the Pacific Northwest.",
+    "embedding": [0.8, 0.9, 1.0, 0.1, 0.2]
+  }
+]
+

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "test-1",
+    "author": "Sarah Johnson",
+    "role": "Farmer",
+    "farm": "Sunshine Organic Farm",
+    "text": "Farm2Table has transformed how we reach customers. The platform makes it easy to share our story and connect with people who care about sustainable farming.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face&auto=format"
+  },
+  {
+    "id": "test-2",
+    "author": "Mike Chen",
+    "role": "Customer",
+    "text": "I love the convenience of getting fresh produce delivered weekly. The quality is amazing and I feel good supporting local farms.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face&auto=format"
+  },
+  {
+    "id": "test-3",
+    "author": "Emily Rodriguez",
+    "role": "Customer",
+    "text": "The premium plan gives me flexibility to choose exactly what I want. The nutrition tracking feature helps me stay healthy!",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face&auto=format"
+  },
+  {
+    "id": "test-4",
+    "author": "David Martinez",
+    "role": "Farmer",
+    "farm": "Riverside Harvest Co-op",
+    "text": "Being part of Farm2Table has increased our sales and helped us build a community of customers who value local food.",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face&auto=format"
+  }
+]
+

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sub-1",
+    "userId": "user-2",
+    "plan": "basic",
+    "status": "active",
+    "startDate": "2024-01-15",
+    "cityId": "city-1"
+  },
+  {
+    "id": "sub-2",
+    "userId": "user-3",
+    "plan": "premium",
+    "status": "active",
+    "startDate": "2024-02-01",
+    "cityId": "city-1"
+  },
+  {
+    "id": "sub-3",
+    "userId": "user-1",
+    "plan": "premium",
+    "status": "active",
+    "startDate": "2024-01-20",
+    "cityId": "city-1"
+  }
+]
+

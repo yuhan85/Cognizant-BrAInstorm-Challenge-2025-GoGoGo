@@ -1,0 +1,55 @@
+[
+  {
+    "id": "timeline-1",
+    "productId": "prod-1",
+    "entries": [
+      {
+        "date": "2024-02-15",
+        "stage": "Seeds planted in greenhouse",
+        "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=300&fit=crop&auto=format"
+      },
+      {
+        "date": "2024-02-28",
+        "stage": "Seedlings transplanted to field",
+        "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=400&h=300&fit=crop&auto=format"
+      },
+      {
+        "date": "2024-03-10",
+        "stage": "First flowers appearing",
+        "image": null
+      },
+      {
+        "date": "2024-03-20",
+        "stage": "First harvest ready",
+        "image": "https://images.unsplash.com/photo-1592841200221-a6898a13c8b8?w=400&h=300&fit=crop&auto=format"
+      }
+    ]
+  },
+  {
+    "id": "timeline-2",
+    "productId": "prod-8",
+    "entries": [
+      {
+        "date": "2024-01-20",
+        "stage": "Strawberry plants established",
+        "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=400&h=300&fit=crop&auto=format"
+      },
+      {
+        "date": "2024-02-15",
+        "stage": "First blossoms",
+        "image": null
+      },
+      {
+        "date": "2024-03-01",
+        "stage": "Green berries forming",
+        "image": null
+      },
+      {
+        "date": "2024-03-15",
+        "stage": "Ripe berries ready for harvest",
+        "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=300&fit=crop&auto=format"
+      }
+    ]
+  }
+]
+

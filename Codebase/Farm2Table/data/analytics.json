@@ -1,0 +1,242 @@
+[
+  {
+    "month": "2024-01",
+    "products": [
+      {
+        "productId": "prod-1",
+        "productName": "Organic Tomatoes",
+        "revenue": 1247.50,
+        "quantity": 250,
+        "profit": 498.00,
+        "cost": 749.50
+      },
+      {
+        "productId": "prod-2",
+        "productName": "Fresh Basil",
+        "revenue": 523.50,
+        "quantity": 150,
+        "profit": 209.40,
+        "cost": 314.10
+      },
+      {
+        "productId": "prod-3",
+        "productName": "Mixed Greens",
+        "revenue": 898.50,
+        "quantity": 150,
+        "profit": 359.40,
+        "cost": 539.10
+      },
+      {
+        "productId": "prod-4",
+        "productName": "Carrots",
+        "revenue": 449.10,
+        "quantity": 90,
+        "profit": 179.64,
+        "cost": 269.46
+      }
+    ],
+    "totalRevenue": 3118.60,
+    "totalQuantity": 640,
+    "totalProfit": 1246.44
+  },
+  {
+    "month": "2024-02",
+    "products": [
+      {
+        "productId": "prod-1",
+        "productName": "Organic Tomatoes",
+        "revenue": 998.00,
+        "quantity": 200,
+        "profit": 399.20,
+        "cost": 598.80
+      },
+      {
+        "productId": "prod-2",
+        "productName": "Fresh Basil",
+        "revenue": 628.20,
+        "quantity": 180,
+        "profit": 251.28,
+        "cost": 376.92
+      },
+      {
+        "productId": "prod-3",
+        "productName": "Mixed Greens",
+        "revenue": 1078.20,
+        "quantity": 180,
+        "profit": 431.28,
+        "cost": 646.92
+      },
+      {
+        "productId": "prod-4",
+        "productName": "Carrots",
+        "revenue": 598.80,
+        "quantity": 120,
+        "profit": 239.52,
+        "cost": 359.28
+      }
+    ],
+    "totalRevenue": 3303.20,
+    "totalQuantity": 680,
+    "totalProfit": 1321.28
+  },
+  {
+    "month": "2024-03",
+    "products": [
+      {
+        "productId": "prod-1",
+        "productName": "Organic Tomatoes",
+        "revenue": 1497.00,
+        "quantity": 300,
+        "profit": 598.80,
+        "cost": 898.20
+      },
+      {
+        "productId": "prod-2",
+        "productName": "Fresh Basil",
+        "revenue": 523.50,
+        "quantity": 150,
+        "profit": 209.40,
+        "cost": 314.10
+      },
+      {
+        "productId": "prod-3",
+        "productName": "Mixed Greens",
+        "revenue": 898.50,
+        "quantity": 150,
+        "profit": 359.40,
+        "cost": 539.10
+      },
+      {
+        "productId": "prod-4",
+        "productName": "Carrots",
+        "revenue": 748.50,
+        "quantity": 150,
+        "profit": 299.40,
+        "cost": 449.10
+      }
+    ],
+    "totalRevenue": 3667.50,
+    "totalQuantity": 750,
+    "totalProfit": 1467.00
+  },
+  {
+    "month": "2024-04",
+    "products": [
+      {
+        "productId": "prod-1",
+        "productName": "Organic Tomatoes",
+        "revenue": 1746.50,
+        "quantity": 350,
+        "profit": 698.60,
+        "cost": 1047.90
+      },
+      {
+        "productId": "prod-2",
+        "productName": "Fresh Basil",
+        "revenue": 732.90,
+        "quantity": 210,
+        "profit": 293.16,
+        "cost": 439.74
+      },
+      {
+        "productId": "prod-3",
+        "productName": "Mixed Greens",
+        "revenue": 1257.90,
+        "quantity": 210,
+        "profit": 503.16,
+        "cost": 754.74
+      },
+      {
+        "productId": "prod-4",
+        "productName": "Carrots",
+        "revenue": 598.80,
+        "quantity": 120,
+        "profit": 239.52,
+        "cost": 359.28
+      }
+    ],
+    "totalRevenue": 4336.10,
+    "totalQuantity": 890,
+    "totalProfit": 1734.44
+  },
+  {
+    "month": "2024-05",
+    "products": [
+      {
+        "productId": "prod-1",
+        "productName": "Organic Tomatoes",
+        "revenue": 1996.00,
+        "quantity": 400,
+        "profit": 798.40,
+        "cost": 1197.60
+      },
+      {
+        "productId": "prod-2",
+        "productName": "Fresh Basil",
+        "revenue": 628.20,
+        "quantity": 180,
+        "profit": 251.28,
+        "cost": 376.92
+      },
+      {
+        "productId": "prod-3",
+        "productName": "Mixed Greens",
+        "revenue": 1437.60,
+        "quantity": 240,
+        "profit": 575.04,
+        "cost": 862.56
+      },
+      {
+        "productId": "prod-4",
+        "productName": "Carrots",
+        "revenue": 898.20,
+        "quantity": 180,
+        "profit": 359.28,
+        "cost": 538.92
+      }
+    ],
+    "totalRevenue": 4959.00,
+    "totalQuantity": 1000,
+    "totalProfit": 1984.00
+  },
+  {
+    "month": "2024-06",
+    "products": [
+      {
+        "productId": "prod-1",
+        "productName": "Organic Tomatoes",
+        "revenue": 1746.50,
+        "quantity": 350,
+        "profit": 698.60,
+        "cost": 1047.90
+      },
+      {
+        "productId": "prod-2",
+        "productName": "Fresh Basil",
+        "revenue": 837.60,
+        "quantity": 240,
+        "profit": 335.04,
+        "cost": 502.56
+      },
+      {
+        "productId": "prod-3",
+        "productName": "Mixed Greens",
+        "revenue": 1078.20,
+        "quantity": 180,
+        "profit": 431.28,
+        "cost": 646.92
+      },
+      {
+        "productId": "prod-4",
+        "productName": "Carrots",
+        "revenue": 1047.90,
+        "quantity": 210,
+        "profit": 419.16,
+        "cost": 628.74
+      }
+    ],
+    "totalRevenue": 4710.20,
+    "totalQuantity": 980,
+    "totalProfit": 1884.08
+  }
+]

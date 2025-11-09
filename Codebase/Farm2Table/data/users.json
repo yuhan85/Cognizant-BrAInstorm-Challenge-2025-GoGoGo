@@ -1,0 +1,34 @@
+[
+  {
+    "id": "user-1",
+    "email": "farmer_demo@example.com",
+    "password": "FarmDemo!23",
+    "name": "Sarah Johnson",
+    "role": "farmer",
+    "farmId": "farm-1"
+  },
+  {
+    "id": "user-2",
+    "email": "basic_demo@example.com",
+    "password": "BasicDemo!23",
+    "name": "Mike Chen",
+    "role": "customer",
+    "plan": "basic"
+  },
+  {
+    "id": "user-3",
+    "email": "premium_demo@example.com",
+    "password": "PremiumDemo!23",
+    "name": "Emily Rodriguez",
+    "role": "customer",
+    "plan": "premium"
+  },
+  {
+    "id": "user-4",
+    "email": "driver_demo@example.com",
+    "password": "DriverDemo!23",
+    "name": "Alex Martinez",
+    "role": "driver"
+  }
+]
+

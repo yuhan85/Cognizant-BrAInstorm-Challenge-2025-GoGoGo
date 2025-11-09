@@ -1,0 +1,21 @@
+[
+  {
+    "id": "city-1",
+    "name": "Green Valley",
+    "state": "CA",
+    "region": "Northern California"
+  },
+  {
+    "id": "city-2",
+    "name": "Riverside",
+    "state": "CA",
+    "region": "Southern California"
+  },
+  {
+    "id": "city-3",
+    "name": "Meadowbrook",
+    "state": "OR",
+    "region": "Pacific Northwest"
+  }
+]
+
